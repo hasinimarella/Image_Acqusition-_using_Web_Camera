@@ -183,8 +183,9 @@ else:
 ### iv) Rotate and display the video
 ![OUTput](4(img).png)
 [OUTPUT](3(1).png)
-![OUTPUT](3(2).png)
-![OUTPUT](3(3).png)
+![OUTPUT](3(2)-1.png)
+
+
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
